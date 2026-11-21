@@ -1,0 +1,21 @@
+key,value,what_it_is
+updated,21 Nov 2026,Date shown at the top: 'Production hub · updated …'
+title_line_1,48 HOUR FILM,"Big title, first line (white)"
+title_line_2,CHALLENGE,"Big title, second line (amber)"
+subtitle,"A Namibian horror short, made from script to final cut in 48 hours by a crew of about 22 volunteers. Everything we've planned so far is on this page.",Paragraph under the title
+film_title,Untitled,Slate box: Title
+film_length,7 to 10 min,Slate box: Length
+clock_length,48 hrs,Slate box: Clock
+director,Susann,Slate box: Director
+clock_start_date,2026-12-04,"Date the clock starts, as YYYY-MM-DD. Drives the countdown."
+clock_start_text,"Friday 4 December, after work",Line under the countdown
+clock_start_note,exact start time TBC,Dashed tag under the countdown. Leave empty to hide it.
+road_note,"After the clock: a trailer first, then the full film after the festive season, in January. A team-only screening comes before the public one.",Note under the road timeline
+later_heading,Before the next face-to-face,Heading of the box under the day cards
+clock_steps_heading,How the first stretch runs,Heading of the numbered list in 'The 48 hours'
+clock_rules_heading,Rules of the clock,Heading of the bullet list in 'The 48 hours'
+locations_note,"Before we lock any location, the sound person visits it to test for echo.",Note under the location cards
+footer_message,Something wrong or out of date? Message Eliud on the group.,"Footer, left"
+footer_link_intro,Full written version:,"Footer, right: text before the link"
+footer_link_text,the production doc,"Footer, right: the link's text"
+footer_link_url,https://claude.ai/artifact/9xQWBNnwoDFn5nGEbNQSgu,"Footer, right: where the link goes"
